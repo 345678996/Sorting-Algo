@@ -1,4 +1,4 @@
-# Sorting-Algo
+# Sorting-Algos
 This repository contains various sorting algorithms, including: <br>
 1. Selection Sort <br>
 2. Bubble Sort <br>
